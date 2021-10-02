@@ -1,11 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=AndryGamingYT&&label=GitHub+profile+views)
 
-<div align="center">
- <h1> Hi, I'm Andrea 👋</h1>
-</div>
+# Hi, I'm Andrea Cassone 👋
 
-- 🏠 I live in `Italy`
-- 📚 I’m currently studing `IT and Telecomunications`
+- 🏠 I live in **Italy**
+- 📚 I’m currently studing **IT and Telecomunications** at **I.I.S.S. Luigi dell'Erba**
 - 🔭 I’m currently working in [Sydus](https://sydus.it/) and as a freelance developer
 
 ## I use:
